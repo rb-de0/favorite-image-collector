@@ -1,0 +1,17 @@
+{
+  "name": "favorite-image-collector",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rb-de0/favorite-image-collector.git",
+  "author": "rb_de0 <rebirth.de0@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "safe-access": "^0.1.0",
+    "sleep": "^5.1.1",
+    "twitter": "^1.7.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
